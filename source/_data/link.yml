@@ -1,0 +1,8 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: Google
+      link: https://www.google.com
+      avatar: 
+      descr:   
